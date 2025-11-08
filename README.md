@@ -16,7 +16,20 @@ CPP fundamentals/
 │   ├── 01studentInformation/
 │   ├── 02passedOrFailed/
 │   ├── 03monthPrinter/
-│   └── ...
+│   ├── 04foreignLanguages/
+│   ├── 05divisibleBy3/
+│   ├── 06sumOfOddNumbers/
+│   ├── 07multiplicationTable/
+│   └── 08evenNumber/
+├── 02BasicSyntaxEx/
+│   ├── 01orderTwoNumbers/
+│   ├── 02productSign/
+│   ├── 03quadraticEquation/
+│   ├── 04numbers1ToN/
+│   ├── 05minAndMax/
+│   ├── 06greatestCommonDivisor/
+│   ├── 07printAndSum/
+│   └── 08strongNumber/
 └── README.md
 ```
 
@@ -43,6 +56,33 @@ Solutions covering fundamental C++ syntax including:
 - Conditional statements
 - Loops
 - Basic algorithms
+
+**Solutions:**
+1. Student Information
+2. Passed or Failed
+3. Month Printer
+4. Foreign Languages
+5. Divisible by 3
+6. Sum of Odd Numbers
+7. Multiplication Table
+8. Even Number
+
+### 02. Basic Syntax Exercises
+Extended practice problems covering:
+- Advanced conditional logic
+- Mathematical operations
+- Number manipulation
+- Algorithm implementation
+
+**Solutions:**
+1. Order Two Numbers
+2. Product Sign
+3. Quadratic Equation
+4. Numbers 1 to N
+5. Min and Max
+6. Greatest Common Divisor
+7. Print and Sum
+8. Strong Number
 
 ## 🚀 How to Use
 
