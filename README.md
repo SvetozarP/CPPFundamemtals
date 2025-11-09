@@ -30,6 +30,13 @@ CPP fundamentals/
 │   ├── 06greatestCommonDivisor/
 │   ├── 07printAndSum/
 │   └── 08strongNumber/
+├── 03Functions/
+│   ├── 01signOfIntegenNumbers/
+│   ├── 02grades/
+│   ├── 03smallestOfThreeNumbers/
+│   ├── 04printingTriangle/
+│   ├── 05calculateRectangleArea/
+│   └── 06mathPower/
 └── README.md
 ```
 
@@ -83,6 +90,21 @@ Extended practice problems covering:
 6. Greatest Common Divisor
 7. Print and Sum
 8. Strong Number
+
+### 03. Functions
+Solutions covering function definitions and usage including:
+- Function declaration and definition
+- Parameters and return values
+- Function calls and modular programming
+- Code organization and reusability
+
+**Solutions:**
+1. Sign of Integer Numbers
+2. Grades
+3. Smallest of Three Numbers
+4. Printing Triangle
+5. Calculate Rectangle Area
+6. Math Power
 
 ## 🚀 How to Use
 
