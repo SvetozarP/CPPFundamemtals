@@ -37,6 +37,16 @@ CPP fundamentals/
 │   ├── 04printingTriangle/
 │   ├── 05calculateRectangleArea/
 │   └── 06mathPower/
+├── 04FunctionsEx/
+│   ├── 01centerPoint/
+│   ├── 02operations/
+│   ├── 03factorialDivision/
+│   ├── 04printNameOfNumbers/
+│   ├── 05multiplyEvensSumByOdds/
+│   ├── 06vowelsCount/
+│   ├── 07passwordValidator/
+│   ├── 08orders/
+│   └── 09greaterOfTwoValues/
 └── README.md
 ```
 
@@ -105,6 +115,25 @@ Solutions covering function definitions and usage including:
 4. Printing Triangle
 5. Calculate Rectangle Area
 6. Math Power
+
+### 04. Functions Exercises
+Extended practice problems covering advanced function concepts including:
+- Reference parameters and pass-by-reference
+- Multiple function definitions
+- Complex function logic
+- String manipulation with functions
+- Mathematical operations with functions
+
+**Solutions:**
+1. Center Point
+2. Operations
+3. Factorial Division
+4. Print Name of Numbers
+5. Multiply Evens Sum by Odds
+6. Vowels Count
+7. Password Validator
+8. Orders
+9. Greater of Two Values
 
 ## 🚀 How to Use
 
