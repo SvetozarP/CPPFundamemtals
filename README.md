@@ -47,6 +47,13 @@ CPP fundamentals/
 │   ├── 07passwordValidator/
 │   ├── 08orders/
 │   └── 09greaterOfTwoValues/
+├── 05Arrays/
+│   ├── 01dayOfWeek/
+│   ├── 02printNumbersInReverseOrder/
+│   ├── 03sumEvenNumbers/
+│   ├── 04reverseArrayOfStrings/
+│   ├── 05evenAndOddSubstraction/
+│   └── 06equalArrays/
 └── README.md
 ```
 
@@ -134,6 +141,22 @@ Extended practice problems covering advanced function concepts including:
 7. Password Validator
 8. Orders
 9. Greater of Two Values
+
+### 05. Arrays
+Solutions covering array operations and manipulation including:
+- Array declaration and initialization
+- Array traversal and iteration
+- Array element manipulation
+- String arrays
+- Array comparison and operations
+
+**Solutions:**
+1. Day of Week
+2. Print Numbers in Reverse Order
+3. Sum Even Numbers
+4. Reverse Array of Strings
+5. Even and Odd Subtraction
+6. Equal Arrays
 
 ## 🚀 How to Use
 

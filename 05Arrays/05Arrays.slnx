@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01dayOfWeek/01dayOfWeek.vcxproj" />
+  <Project Path="02printNumbersInReverseOrder/02printNumbersInReverseOrder.vcxproj" />
+  <Project Path="03sumEvenNumbers/03sumEvenNumbers.vcxproj" />
+  <Project Path="04reverseArrayOfStrings/04reverseArrayOfStrings.vcxproj" />
+  <Project Path="05evenAndOddSubstraction/05evenAndOddSubstraction.vcxproj" />
+  <Project Path="06equalArrays/06equalArrays.vcxproj" />
+</Solution>
