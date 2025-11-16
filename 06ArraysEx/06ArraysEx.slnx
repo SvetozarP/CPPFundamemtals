@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01zigZagArrays/01zigZagArrays.vcxproj" />
+  <Project Path="02longestSequence/02longestSequence.vcxproj" />
+  <Project Path="03aboveAverage/03aboveAverage.vcxproj" />
+  <Project Path="04mostFrequentNumber/04mostFrequentNumber.vcxproj" />
+</Solution>

@@ -54,6 +54,11 @@ CPP fundamentals/
 │   ├── 04reverseArrayOfStrings/
 │   ├── 05evenAndOddSubstraction/
 │   └── 06equalArrays/
+├── 06ArraysEx/
+│   ├── 01zigZagArrays/
+│   ├── 02longestSequence/
+│   ├── 03aboveAverage/
+│   └── 04mostFrequentNumber/
 └── README.md
 ```
 
@@ -157,6 +162,20 @@ Solutions covering array operations and manipulation including:
 4. Reverse Array of Strings
 5. Even and Odd Subtraction
 6. Equal Arrays
+
+### 06. Arrays Exercises
+Extended practice problems covering advanced array operations including:
+- Multi-array manipulation
+- Sequence analysis
+- Statistical operations on arrays
+- Pattern finding in arrays
+- Array algorithms and optimizations
+
+**Solutions:**
+1. Zig Zag Arrays
+2. Longest Sequence
+3. Above Average
+4. Most Frequent Number
 
 ## 🚀 How to Use
 
