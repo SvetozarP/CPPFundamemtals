@@ -58,7 +58,12 @@ CPP fundamentals/
 │   ├── 01zigZagArrays/
 │   ├── 02longestSequence/
 │   ├── 03aboveAverage/
-│   └── 04mostFrequentNumber/
+│   ├── 04mostFrequentNumber/
+│   ├── 05cartesianProduct/
+│   ├── 06closestNumbers/
+│   ├── 07arrayRotation/
+│   ├── 08topIntegers/
+│   └── 09magicSum/
 └── README.md
 ```
 
@@ -176,6 +181,11 @@ Extended practice problems covering advanced array operations including:
 2. Longest Sequence
 3. Above Average
 4. Most Frequent Number
+5. Cartesian Product
+6. Closest Numbers
+7. Array Rotation
+8. Top Integers
+9. Magic Sum
 
 ## 🚀 How to Use
 
