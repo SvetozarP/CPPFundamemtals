@@ -64,6 +64,11 @@ CPP fundamentals/
 │   ├── 07arrayRotation/
 │   ├── 08topIntegers/
 │   └── 09magicSum/
+├── 07StringsAndStreams/
+│   ├── 01reverseStrings/
+│   ├── 02repeatStrings/
+│   ├── 03substring/
+│   └── 04digitsLettersAndOther/
 └── README.md
 ```
 
@@ -186,6 +191,20 @@ Extended practice problems covering advanced array operations including:
 7. Array Rotation
 8. Top Integers
 9. Magic Sum
+
+### 07. Strings and Streams
+Solutions covering string manipulation and stream operations including:
+- String operations and methods
+- String reversal and transformation
+- Substring operations
+- Character classification and filtering
+- Input/output stream handling
+
+**Solutions:**
+1. Reverse Strings
+2. Repeat Strings
+3. Substring
+4. Digits, Letters and Other
 
 ## 🚀 How to Use
 

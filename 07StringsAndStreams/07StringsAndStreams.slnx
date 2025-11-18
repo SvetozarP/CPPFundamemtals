@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01reverseStrings/01reverseStrings.vcxproj" />
+  <Project Path="02repeatStrings/02repeatStrings.vcxproj" />
+  <Project Path="03substring/03substring.vcxproj" />
+  <Project Path="04digitsLettersAndOther/04digitsLettersAndOther.vcxproj" />
+</Solution>
