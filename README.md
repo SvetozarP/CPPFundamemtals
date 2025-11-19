@@ -69,6 +69,9 @@ CPP fundamentals/
 │   ├── 02repeatStrings/
 │   ├── 03substring/
 │   └── 04digitsLettersAndOther/
+├── 08StringsAndStreamsEx/
+│   ├── 01validUsernames/
+│   └── 02caesarCipher/
 └── README.md
 ```
 
@@ -205,6 +208,17 @@ Solutions covering string manipulation and stream operations including:
 2. Repeat Strings
 3. Substring
 4. Digits, Letters and Other
+
+### 08. Strings and Streams Exercises
+Extended practice problems covering advanced string and stream operations including:
+- String validation and pattern matching
+- Encryption and cipher algorithms
+- Advanced string manipulation techniques
+- Complex stream processing
+
+**Solutions:**
+1. Valid Usernames
+2. Caesar Cipher
 
 ## 🚀 How to Use
 
