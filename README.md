@@ -71,7 +71,9 @@ CPP fundamentals/
 │   └── 04digitsLettersAndOther/
 ├── 08StringsAndStreamsEx/
 │   ├── 01validUsernames/
-│   └── 02caesarCipher/
+│   ├── 02caesarCipher/
+│   ├── 03replaceRepeatedChars/
+│   └── 04charactedMultiplier/
 └── README.md
 ```
 
@@ -219,6 +221,8 @@ Extended practice problems covering advanced string and stream operations includ
 **Solutions:**
 1. Valid Usernames
 2. Caesar Cipher
+3. Replace Repeated Characters
+4. Character Multiplier
 
 ## 🚀 How to Use
 

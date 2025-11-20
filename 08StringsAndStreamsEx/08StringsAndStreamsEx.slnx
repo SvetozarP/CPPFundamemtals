@@ -3,6 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01validUsernames/01validUsernames.vcxproj" />
-  <Project Path="02caesarCipher/02caesarCipher.vcxproj" />
+  <Project Path="03replaceRepeatedChars/03replaceRepeatedChars.vcxproj" Id="e851fe4a-09df-4856-b87d-c7453e94ef9c" />
+  <Project Path="04charactedMultiplier/04charactedMultiplier.vcxproj" Id="8c9d54ee-5101-4e91-8ddd-8c63ee0164b0" />
+  <Project Path="J:/Softuni Solutions/CPP fundamentals/08StringsAndStreamsEx/01validUsernames/01validUsernames.vcxproj" Id="d1d48f41-b05c-4d94-aa07-372bfa2ecd01" />
+  <Project Path="J:/Softuni Solutions/CPP fundamentals/08StringsAndStreamsEx/02caesarCipher/02caesarCipher.vcxproj" Id="89733f5a-bd1c-44a5-b662-4bfea8ea92c2" />
 </Solution>
