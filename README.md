@@ -73,7 +73,9 @@ CPP fundamentals/
 │   ├── 01validUsernames/
 │   ├── 02caesarCipher/
 │   ├── 03replaceRepeatedChars/
-│   └── 04charactedMultiplier/
+│   ├── 04charactedMultiplier/
+│   ├── 05mathematicalExpression/
+│   └── 06titleCase/
 └── README.md
 ```
 
@@ -223,6 +225,8 @@ Extended practice problems covering advanced string and stream operations includ
 2. Caesar Cipher
 3. Replace Repeated Characters
 4. Character Multiplier
+5. Mathematical Expression
+6. Title Case
 
 ## 🚀 How to Use
 
