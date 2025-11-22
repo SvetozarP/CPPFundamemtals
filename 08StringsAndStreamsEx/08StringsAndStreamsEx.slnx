@@ -7,6 +7,8 @@
   <Project Path="04charactedMultiplier/04charactedMultiplier.vcxproj" Id="8c9d54ee-5101-4e91-8ddd-8c63ee0164b0" />
   <Project Path="05mathematicalExpression/05mathematicalExpression.vcxproj" Id="6f37ce19-1cbc-4fbf-a5e1-1990298c2ec2" />
   <Project Path="06titleCase/06titleCase.vcxproj" Id="3f13bea6-b574-4539-9d44-d0ef7292f106" />
+  <Project Path="07replaceAll/07replaceAll.vcxproj" Id="0bcd3596-8a0e-46a6-9795-c6fdfa42255f" />
+  <Project Path="08invalidInput/08invalidInput.vcxproj" Id="72358b7e-4d22-4ad1-aa6e-d2cd0265f609" />
   <Project Path="J:/Softuni Solutions/CPP fundamentals/08StringsAndStreamsEx/01validUsernames/01validUsernames.vcxproj" Id="d1d48f41-b05c-4d94-aa07-372bfa2ecd01" />
   <Project Path="J:/Softuni Solutions/CPP fundamentals/08StringsAndStreamsEx/02caesarCipher/02caesarCipher.vcxproj" Id="89733f5a-bd1c-44a5-b662-4bfea8ea92c2" />
 </Solution>

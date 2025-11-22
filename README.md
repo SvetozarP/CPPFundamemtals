@@ -75,7 +75,9 @@ CPP fundamentals/
 │   ├── 03replaceRepeatedChars/
 │   ├── 04charactedMultiplier/
 │   ├── 05mathematicalExpression/
-│   └── 06titleCase/
+│   ├── 06titleCase/
+│   ├── 07replaceAll/
+│   └── 08invalidInput/
 └── README.md
 ```
 
@@ -227,6 +229,8 @@ Extended practice problems covering advanced string and stream operations includ
 4. Character Multiplier
 5. Mathematical Expression
 6. Title Case
+7. Replace All
+8. Invalid Input
 
 ## 🚀 How to Use
 
