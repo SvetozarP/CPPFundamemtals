@@ -78,6 +78,9 @@ CPP fundamentals/
 │   ├── 06titleCase/
 │   ├── 07replaceAll/
 │   └── 08invalidInput/
+├── 09VectorsListsAndIterators/
+│   ├── 01removeNegativesAndReverse/
+│   └── 02products/
 └── README.md
 ```
 
@@ -231,6 +234,18 @@ Extended practice problems covering advanced string and stream operations includ
 6. Title Case
 7. Replace All
 8. Invalid Input
+
+### 09. Vectors, Lists and Iterators
+Solutions covering STL containers and iterators including:
+- Vector operations and manipulation
+- List operations
+- Iterator usage and traversal
+- Container algorithms
+- Element removal and filtering
+
+**Solutions:**
+1. Remove Negatives and Reverse
+2. Products
 
 ## 🚀 How to Use
 
