@@ -80,7 +80,8 @@ CPP fundamentals/
 │   └── 08invalidInput/
 ├── 09VectorsListsAndIterators/
 │   ├── 01removeNegativesAndReverse/
-│   └── 02products/
+│   ├── 02products/
+│   └── 03gaussTrick/
 └── README.md
 ```
 
@@ -246,6 +247,7 @@ Solutions covering STL containers and iterators including:
 **Solutions:**
 1. Remove Negatives and Reverse
 2. Products
+3. Gauss Trick
 
 ## 🚀 How to Use
 

@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01removeNegativesAndReverse/01removeNegativesAndReverse.vcxproj" />
-  <Project Path="02products/02products.vcxproj" />
+  <Project Path="01removeNegativesAndReverse/01removeNegativesAndReverse.vcxproj" Id="42ee3fa9-8719-4790-ad70-cda3eb00e8c8" />
+  <Project Path="02products/02products.vcxproj" Id="b51ecbbd-6d47-4475-b4ab-4425b88b293e" />
+  <Project Path="03gaussTrick/03gaussTrick.vcxproj" Id="8aef65f8-dbe0-4090-b538-f90487cdcf34" />
 </Solution>
