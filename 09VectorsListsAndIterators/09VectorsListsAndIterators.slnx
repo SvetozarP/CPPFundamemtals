@@ -6,4 +6,6 @@
   <Project Path="01removeNegativesAndReverse/01removeNegativesAndReverse.vcxproj" Id="42ee3fa9-8719-4790-ad70-cda3eb00e8c8" />
   <Project Path="02products/02products.vcxproj" Id="b51ecbbd-6d47-4475-b4ab-4425b88b293e" />
   <Project Path="03gaussTrick/03gaussTrick.vcxproj" Id="8aef65f8-dbe0-4090-b538-f90487cdcf34" />
+  <Project Path="04mergingSequences/04mergingSequences.vcxproj" Id="d08494cb-ddfc-455e-9ab9-560189d277b4" />
+  <Project Path="05manipulations/05manipulations.vcxproj" Id="5aded796-5769-47a3-bff8-3ecaaa03132c" />
 </Solution>

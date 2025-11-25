@@ -81,7 +81,9 @@ CPP fundamentals/
 ├── 09VectorsListsAndIterators/
 │   ├── 01removeNegativesAndReverse/
 │   ├── 02products/
-│   └── 03gaussTrick/
+│   ├── 03gaussTrick/
+│   ├── 04mergingSequences/
+│   └── 05manipulations/
 └── README.md
 ```
 
@@ -248,6 +250,8 @@ Solutions covering STL containers and iterators including:
 1. Remove Negatives and Reverse
 2. Products
 3. Gauss Trick
+4. Merging Sequences
+5. Manipulations
 
 ## 🚀 How to Use
 
