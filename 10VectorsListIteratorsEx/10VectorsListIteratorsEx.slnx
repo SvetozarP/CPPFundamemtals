@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01mergeTrains/01mergeTrains.vcxproj" Id="a3c95887-22ac-49f9-8fc7-8798f0b00ac1" />
+</Solution>

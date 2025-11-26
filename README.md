@@ -84,6 +84,8 @@ CPP fundamentals/
 │   ├── 03gaussTrick/
 │   ├── 04mergingSequences/
 │   └── 05manipulations/
+├── 10VectorsListIteratorsEx/
+│   └── 01mergeTrains/
 └── README.md
 ```
 
@@ -252,6 +254,16 @@ Solutions covering STL containers and iterators including:
 3. Gauss Trick
 4. Merging Sequences
 5. Manipulations
+
+### 10. Vectors, Lists and Iterators Exercises
+Extended practice problems covering advanced STL container operations including:
+- Complex vector and list manipulations
+- Advanced iterator patterns
+- Container merging and transformation
+- Algorithm optimization with containers
+
+**Solutions:**
+1. Merge Trains
 
 ## 🚀 How to Use
 
