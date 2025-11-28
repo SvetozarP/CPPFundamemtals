@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="01mergeTrains/01mergeTrains.vcxproj" Id="a3c95887-22ac-49f9-8fc7-8798f0b00ac1" />
+  <Project Path="02brackets/02brackets.vcxproj" Id="8c8d1c0e-88ac-4a78-8fe1-79d3035e93f0" />
 </Solution>

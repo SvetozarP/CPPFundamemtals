@@ -85,7 +85,8 @@ CPP fundamentals/
 │   ├── 04mergingSequences/
 │   └── 05manipulations/
 ├── 10VectorsListIteratorsEx/
-│   └── 01mergeTrains/
+│   ├── 01mergeTrains/
+│   └── 02brackets/
 └── README.md
 ```
 
@@ -264,6 +265,7 @@ Extended practice problems covering advanced STL container operations including:
 
 **Solutions:**
 1. Merge Trains
+2. Brackets
 
 ## 🚀 How to Use
 
