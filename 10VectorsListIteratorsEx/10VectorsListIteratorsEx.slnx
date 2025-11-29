@@ -5,4 +5,8 @@
   </Configurations>
   <Project Path="01mergeTrains/01mergeTrains.vcxproj" Id="a3c95887-22ac-49f9-8fc7-8798f0b00ac1" />
   <Project Path="02brackets/02brackets.vcxproj" Id="8c8d1c0e-88ac-4a78-8fe1-79d3035e93f0" />
+  <Project Path="03.1pipes/03.1pipes.vcxproj" Id="a75b3a7b-e434-4be9-ba7e-58885c0acece" />
+  <Project Path="03pipes/03pipes.vcxproj" Id="507ed3ce-f5ac-4ad8-81f1-7822414de55f" />
+  <Project Path="04.1bus/04.1bus.vcxproj" Id="780859c0-46d5-471e-8361-dfac5199f214" />
+  <Project Path="04bus/04bus.vcxproj" Id="2d3ce4fe-1d0b-42bf-b027-3eea77a092ad" />
 </Solution>
