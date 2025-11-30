@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01belowAverageOnly/01belowAverageOnly.vcxproj" />
+  <Project Path="02specialItems/02specialItems.vcxproj" />
+  <Project Path="03machineCommands/03machineCommands.vcxproj" />
+</Solution>

@@ -88,7 +88,13 @@ CPP fundamentals/
 │   ├── 01mergeTrains/
 │   ├── 02brackets/
 │   ├── 03pipes/
-│   └── 04bus/
+│   ├── 03.1pipes/
+│   ├── 04bus/
+│   └── 04.1bus/
+├── 11ExamPrep/
+│   ├── 01belowAverageOnly/
+│   ├── 02specialItems/
+│   └── 03machineCommands/
 └── README.md
 ```
 
@@ -270,6 +276,18 @@ Extended practice problems covering advanced STL container operations including:
 2. Brackets
 3. Pipes
 4. Bus
+
+### 11. Exam Preparation
+Practice problems for exam preparation covering:
+- Comprehensive problem-solving techniques
+- Integration of multiple concepts
+- Complex algorithm implementation
+- Real-world problem scenarios
+
+**Solutions:**
+1. Below Average Only
+2. Special Items
+3. Machine Commands
 
 ## 🚀 How to Use
 
