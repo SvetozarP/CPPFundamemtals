@@ -95,6 +95,10 @@ CPP fundamentals/
 │   ├── 01belowAverageOnly/
 │   ├── 02specialItems/
 │   └── 03machineCommands/
+├── 12ExamPrep220423/
+│   ├── 01funSequence/
+│   ├── 02specialItems/
+│   └── 03punctuation/
 └── README.md
 ```
 
@@ -288,6 +292,18 @@ Practice problems for exam preparation covering:
 1. Below Average Only
 2. Special Items
 3. Machine Commands
+
+### 12. Exam Preparation 22/04/23
+Additional practice problems for exam preparation covering:
+- Advanced problem-solving techniques
+- Complex algorithm implementation
+- String and sequence manipulation
+- Pattern recognition and processing
+
+**Solutions:**
+1. Fun Sequence
+2. Special Items
+3. Punctuation
 
 ## 🚀 How to Use
 

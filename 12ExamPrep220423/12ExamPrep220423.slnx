@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01funSequence/01funSequence.vcxproj" Id="7187d099-5fa3-42ac-85e2-9ec8a418f0d9" />
+  <Project Path="02specialItems/02specialItems.vcxproj" Id="281a4db5-bd17-4f58-9735-4f06529df5d7" />
+  <Project Path="03punctuation/03punctuation.vcxproj" Id="5b209590-c982-417f-994f-a70da1af5b42" />
+</Solution>
