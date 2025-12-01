@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01belowAverageOnly/01belowAverageOnly.vcxproj" Id="584b7bb8-b53c-43a5-b0bc-9f45fd35d7b8" />
+  <Project Path="02secretMessage/02secretMessage.vcxproj" Id="c5d70d53-0170-483a-8d69-d0a09dc21efe" />
+  <Project Path="03machineCommands/03machineCommands.vcxproj" Id="19567eeb-5c53-4fa2-9050-db83d675f2bc" />
+</Solution>
