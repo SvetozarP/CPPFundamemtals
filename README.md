@@ -103,6 +103,10 @@ CPP fundamentals/
 │   ├── 01belowAverageOnly/
 │   ├── 02secretMessage/
 │   └── 03machineCommands/
+├── 14ExamPrep101223/
+│   ├── 01howManyVowels/
+│   ├── 02calculations/
+│   └── 03trainComposition/
 └── README.md
 ```
 
@@ -320,6 +324,19 @@ Additional practice problems for exam preparation covering:
 1. Below Average Only
 2. Secret Message
 3. Machine Commands
+
+### 14. Exam Preparation 10/12/23
+Additional practice problems for exam preparation covering:
+- Advanced problem-solving techniques
+- Complex algorithm implementation
+- String manipulation and analysis
+- Mathematical calculations
+- Data structure operations
+
+**Solutions:**
+1. How Many Vowels
+2. Calculations
+3. Train Composition
 
 ## 🚀 How to Use
 

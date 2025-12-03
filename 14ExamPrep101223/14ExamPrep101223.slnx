@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01howManyVowels/01howManyVowels.vcxproj" />
+  <Project Path="02calculations/02calculations.vcxproj" />
+  <Project Path="03trainComposition/03trainComposition.vcxproj" />
+</Solution>
