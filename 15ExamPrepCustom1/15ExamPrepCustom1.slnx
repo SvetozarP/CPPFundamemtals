@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01characterAnalysis/01characterAnalysis.vcxproj" />
+  <Project Path="02advancedCalculatorWithHistory/02advancedCalculatorWithHistory.vcxproj" />
+</Solution>

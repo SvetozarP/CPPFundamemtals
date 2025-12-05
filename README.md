@@ -107,6 +107,9 @@ CPP fundamentals/
 │   ├── 01howManyVowels/
 │   ├── 02calculations/
 │   └── 03trainComposition/
+├── 15ExamPrepCustom1/
+│   ├── 01characterAnalysis/
+│   └── 02advancedCalculatorWithHistory/
 └── README.md
 ```
 
@@ -337,6 +340,18 @@ Additional practice problems for exam preparation covering:
 1. How Many Vowels
 2. Calculations
 3. Train Composition
+
+### 15. Exam Preparation Custom 1
+Additional practice problems for exam preparation covering:
+- Advanced problem-solving techniques
+- Complex algorithm implementation
+- Character analysis and processing
+- Calculator implementation with history tracking
+- Advanced data structure operations
+
+**Solutions:**
+1. Character Analysis
+2. Advanced Calculator with History
 
 ## 🚀 How to Use
 
