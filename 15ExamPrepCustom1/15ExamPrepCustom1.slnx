@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01characterAnalysis/01characterAnalysis.vcxproj" />
-  <Project Path="02advancedCalculatorWithHistory/02advancedCalculatorWithHistory.vcxproj" />
+  <Project Path="01characterAnalysis/01characterAnalysis.vcxproj" Id="e5b459b9-e305-499c-8294-7f3308573c3d" />
+  <Project Path="02advancedCalculatorWithHistory/02advancedCalculatorWithHistory.vcxproj" Id="352f7968-196c-4365-8fa6-3094e1f8711b" />
+  <Project Path="03playlistManager/03playlistManager.vcxproj" Id="696114b0-5711-4284-90ee-297ac667e0c3" />
 </Solution>

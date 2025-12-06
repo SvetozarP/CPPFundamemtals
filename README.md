@@ -109,7 +109,8 @@ CPP fundamentals/
 │   └── 03trainComposition/
 ├── 15ExamPrepCustom1/
 │   ├── 01characterAnalysis/
-│   └── 02advancedCalculatorWithHistory/
+│   ├── 02advancedCalculatorWithHistory/
+│   └── 03playlistManager/
 └── README.md
 ```
 
@@ -347,11 +348,13 @@ Additional practice problems for exam preparation covering:
 - Complex algorithm implementation
 - Character analysis and processing
 - Calculator implementation with history tracking
+- Playlist management and data structure operations
 - Advanced data structure operations
 
 **Solutions:**
 1. Character Analysis
 2. Advanced Calculator with History
+3. Playlist Manager
 
 ## 🚀 How to Use
 
