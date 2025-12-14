@@ -111,6 +111,10 @@ CPP fundamentals/
 │   ├── 01characterAnalysis/
 │   ├── 02advancedCalculatorWithHistory/
 │   └── 03playlistManager/
+├── 16RegularExam/
+│   ├── Task1/
+│   ├── Task2/
+│   └── Task3/
 └── README.md
 ```
 
@@ -355,6 +359,19 @@ Additional practice problems for exam preparation covering:
 1. Character Analysis
 2. Advanced Calculator with History
 3. Playlist Manager
+
+### 16. Regular Exam
+Regular exam problems covering:
+- Financial calculations and expense management
+- Array condensation and transformation algorithms
+- Data structure manipulation (train wagon management)
+- Command-based system implementation
+- Complex problem-solving scenarios
+
+**Solutions:**
+1. Task 1 - Championship Expenses and Points Calculation
+2. Task 2 - Array Condensation
+3. Task 3 - Train Wagon Management
 
 ## 🚀 How to Use
 
