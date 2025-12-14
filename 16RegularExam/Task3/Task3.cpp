@@ -46,6 +46,12 @@ int main() {
 
             train.erase(train.begin() + oldIndex);
 
+            // Adjust newIndex if oldIndex was before newIndex
+            // After erasing, all elements after oldIndex shift left by 1
+            if (oldIndex < newIndex) {
+                newIndex--;
+            }
+
             train.insert(train.begin() + newIndex, movedWagonContent);
 
             printTrain(train);
